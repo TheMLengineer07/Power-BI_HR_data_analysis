@@ -9,9 +9,10 @@ process-
 First we import dataset in to power bi and then transform the data in power bi query editor
 Then we clean the data like null values,dublicate value.
 
-DashBoard
+Repository structure-
 
-uploaded file
+Data: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/HR_Analytics.csv
+Dashboard: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/power%20bi%20dashboards.pdf
 
 Conclusion-
 
