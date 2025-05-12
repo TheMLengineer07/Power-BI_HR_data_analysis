@@ -1,4 +1,4 @@
-# Power-BI Proejct-HR_data-analysis-
+# Power-BI Proejct(HR_data-analysis)
 Help an Organization to improve employee performance and employee retention (reduce attrition) by creating  a HR Analytics Dasboard.
 
 Project objective-
