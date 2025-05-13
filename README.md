@@ -11,13 +11,13 @@ Then we clean the data like null values,dublicate value.
 
 Repository structure-
 
-Data: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/HR_Analytics.csv
- Dashboard: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/power%20bi%20dashboards.pdf
+# Data: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/HR_Analytics.csv
+# Dashboard: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/power%20bi%20dashboards.pdf
 
 Conclusion-
 
 Find many reasons for attrition
 1) below 5k salary,most emplyee left in all departments
 2) Certain Age group(25-32) left the company.
-3) Certain deparent like LabTechnician ,more people left the company.
+3) Certain department like LabTechnician ,more people left the company.
 4) Total of years in comapany is also a key factor for attrition.Emplyee who has passed more than 1 years and 5 years have left the company more.
