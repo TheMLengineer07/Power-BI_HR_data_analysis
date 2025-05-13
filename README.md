@@ -12,7 +12,7 @@ Then we clean the data like null values,dublicate value.
 Repository structure-
 
 Data: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/HR_Analytics.csv
-Dashboard: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/power%20bi%20dashboards.pdf
+ Dashboard: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/power%20bi%20dashboards.pdf
 
 Conclusion-
 
