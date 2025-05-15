@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-# Project objective
+# Project Overview
 * This Project focuses on analyzing emplyee attrition trends using Power BI to help organizations improve emplyee performance and retention rates.
   The dashboard provides insights into various factors affecting attrition,such as salary levels,age groups,departments and tenture within the company. 
 
