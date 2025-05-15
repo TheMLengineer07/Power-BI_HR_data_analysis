@@ -1,23 +1,55 @@
-# Power-BI Proejct(HR_data-analysis)
-Help an Organization to improve employee performance and employee retention (reduce attrition) by creating  a HR Analytics Dasboard.
+# HR Analytics Dashboard
 
-Project objective-
-The Basic Goal of this project is to find the root cause of employee attrition rate in a particular company.
+# Project objective
+* This Project focuses on analyzing emplyee attrition trends using Power BI to help organizations improve emplyee performance and retention rates.
+  The dashboard provides insights into various factors affecting attrition,such as salary levels,age groups,departments and tenture within the company. 
 
-process-
+# Objective
 
-First we import dataset in to power bi and then transform the data in power bi query editor
-Then we clean the data like null values,dublicate value.
+* Identify key drivers of emplyee attrition within an organization.
+* Provide data-driven insights to HR teams for better retention strategies.
+* Visualize patterns using interactive dashboards for a clear understanding of workforce trends.
 
-Repository structure-
+# Data Collecting and cleaning
 
-# Data: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/HR_Analytics.csv
-# Dashboard: https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/power%20bi%20dashboards.pdf
+* Imported raw data HR Analytics dataset into Power BI.
+* Processed data using Power BI Query Editor,handling:
+   * Null values and missing entries
+   * Duplicate records
+   * Data type corrections
 
-Conclusion-
+# Key Findings
 
-Find many reasons for attrition
-1) below 5k salary,most emplyee left in all departments
-2) Certain Age group(25-32) left the company.
-3) Certain department like LabTechnician ,more people left the company.
-4) Total of years in comapany is also a key factor for attrition.Emplyee who has passed more than 1 years and 5 years have left the company more.
+* Salary impact: Emplyees earning below 5000 rs are most likely to leave.
+* Departments Trend: Highest attrition rate observed in Lab Technicial roles.
+* Age Factor- Emplyees ageed 25-32 years tend to leave the company more often.
+* Experience Influence: Emplyees staying for 1-5 years are more likely to quit.
+* Geographical Trens: Location-based analysis identifies retention challenges.
+
+# Dashboard Features
+
+* Attrition Rate Overview: Summary of total emplyees vs those who left.
+* Salary Analysis: Effect of salary levels on attrition.
+* Department-wise Attrition: Breakdown by roles and function.
+* Tenure based Insights: Attrition trends across different experience levels.
+* Age distribution impact: Visual representation of age-based attrition.
+
+
+# Technology stack
+
+* Power BI
+* Excel
+* SQL
+
+# Conclusion
+
+* This HR Analytics Dashboard provides valuable insights into employee retention strategies. By addressing key issues like salary gaps, department- 
+  specific challenges, and age-related attrition, organizations can enhance employee engagement and reduce turnover rates.
+
+# Repository Links
+
+Dataset:https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/HR_Analytics.csv
+Dashboard:https://github.com/TheMLengineer07/Power-BI-HR_data-analysis-/blob/main/power%20bi%20dashboards.pdf
+
+
+
