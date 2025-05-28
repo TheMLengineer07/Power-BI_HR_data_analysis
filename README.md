@@ -1,9 +1,10 @@
 # 📊 HR Analytics Dashboard | Workforce Insights & Retention Strategies
 
 # Project Overview
-* This Project focuses on analyzing emplyee attrition trends using Power BI to help organizations improve emplyee performance and retention rates.
-  The dashboard provides insights into various factors affecting attrition,such as salary levels, age groups,departments and tenure within the
-  company. 
+* Description: Designed an interactive HR analytics dashboard using Power BI to analyze employee attrition trends and workforce performance. This 
+ project provides data-driven insights into salary impact, department-wise attrition, tenure-based trends, and age distribution, helping HR teams 
+ optimize retention strategies. Key techniques include data preprocessing, visualization, and predictive analytics to enhance employee engagement
+ and reduce turnover rates.
 
 # Objective
 
