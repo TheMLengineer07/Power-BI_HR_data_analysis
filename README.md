@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# 📊 HR Analytics Dashboard | Workforce Insights & Retention Strategies
 
 # Project Overview
 * This Project focuses on analyzing emplyee attrition trends using Power BI to help organizations improve emplyee performance and retention rates.
